@@ -1,4 +1,4 @@
-## RAG OpenAI API embeddings FAISS with chunks and stream response
+## RAG OpenAI API with different documents separated in chunks, with a manual knowledge basis in JSON files, and semantic similarity using cosine
 
 First of all, install all requirements.
 
